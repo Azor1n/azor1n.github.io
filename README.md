@@ -1,7 +1,7 @@
 # hbRepo by Azor1n
 
 
-## [nxRepo](azor1n.github.io/nxrepo)
+## [nxRepo](nxrepo)
 
 Switch Homebrew Utilities
 
