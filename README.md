@@ -1,15 +1,16 @@
-# hbRepo
-Source for Homebrew utilities
+# hbRepo by Azor1n
+
 
 ## [nxRepo](azor1n.github.io/nxrepo)
 
-Nintendo Switch Homebrew Utilities
+Switch Homebrew Utilities
 
-## wupRepo
+## wupRepo [Coming Soon]
 
-WiiU Homebrew Utilities [Coming Soon]
+WiiU Homebrew Utilities
 
-## ctrRepo
+## ctrRepo [Coming Soon]
 
-3DS Homebrew Utilities [Coming Soon]
+3DS Homebrew Utilities
+
 
